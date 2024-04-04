@@ -2,7 +2,6 @@
 
 - ⭐️ Front-End | Back-End
 - 🌱 Estou estudando TypeScript e Javascript no momento
-- ☕ Amante do Java
 - 📫 Contate-me pelo email: abbadscru@hotmail.com
 
 
